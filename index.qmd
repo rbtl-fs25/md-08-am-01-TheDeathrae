@@ -1,0 +1,34 @@
+---
+title: "Waste Pickers"
+subtitle: "md-08-am-01"
+date: today
+author: Fionn Smith, haella003, FOFOS22
+format: revealjs
+execute:
+  warning: false
+editor: visual
+---
+
+## Research Question
+
+\[Slide 1\]
+
+```{r}
+
+```
+
+## Sampling Strategy
+
+\[Slide 2\]
+
+```{r}
+
+```
+
+## Key Findings
+
+\[Slide 3\]
+
+```{r}
+
+```
