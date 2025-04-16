@@ -2,7 +2,7 @@
 title: "Waste Pickers"
 subtitle: "md-08-am-01"
 date: today
-author: Fionn Smith, haella003, FOFOS22
+author: Fionn Smith, Ella Hächler, Linus Folini
 bibliography: waste-pickers.bib
 format: revealjs
 execute:
@@ -13,8 +13,8 @@ editor: visual
 ## Research Question
 
 Formalization of Informal Waste Pickers’ Cooperatives in Blantyre, Malawi: A Feasibility Assessment\
-@kasinja2018formalization \
-<br> Could formalization of IWPs into cooperatives be effective and/or accepted as a way of managing Municipal Solid Waste in unplanned urban settlements in Malawi?
+@kasinja2018formalization\
+<br> How can the formalization of informal waste pickers into cooperatives influence the effectiveness and accepptance of municipal solid waste management strategies in unplanned urban settlements in Malawi?
 
 ```{r}
 
@@ -22,9 +22,17 @@ Formalization of Informal Waste Pickers’ Cooperatives in Blantyre, Malawi: A F
 
 ## Sampling Strategy
 
--   On-site interviews of active IWP collecting in Zingwangwa, Malawi
+-   Interviews
+
+    -   on-site of active IWP collecting in Zingwangwa, Malawi
+
+    -   in the city with two middlemen
+
+    -   one city council responsible for the MSWM
 
 -   Snowball strategy till saturation
+
+-   Structured questionnaire
 
 ```{r}
 
@@ -32,7 +40,9 @@ Formalization of Informal Waste Pickers’ Cooperatives in Blantyre, Malawi: A F
 
 ## Key Findings
 
-Could formalization of IWPs into cooperatives be effective and/or accepted as a way of managing Municipal Solid Waste in unplanned urban settlements in Malawi?<br>\
+How can the formalization of informal waste pickers into cooperatives influence the effectiveness and accepptance of municipal solid waste management strategies in unplanned urban settlements in Malawi?<br>
+
+\
 With the right support it could potentially be effective at increasing bargaining power of IWPs, thus having the potential to limit exploitative pricing from buyers.
 
 ```{r}
