@@ -14,7 +14,7 @@ editor: visual
 
 Formalization of Informal Waste Pickers’ Cooperatives in Blantyre, Malawi: A Feasibility Assessment\
 @kasinja2018formalization\
-<br> How can the formalization of informal waste pickers into cooperatives influence the effectiveness and accepptance of municipal solid waste management strategies in unplanned urban settlements in Malawi?
+<br> How can the formalization of informal waste pickers (IWP) into cooperatives influence the effectiveness and acceptance of municipal solid waste management strategies in unplanned urban settlements in Malawi?
 
 ```{r}
 
@@ -24,15 +24,17 @@ Formalization of Informal Waste Pickers’ Cooperatives in Blantyre, Malawi: A F
 
 -   Interviews
 
-    -   on-site of active IWP collecting in Zingwangwa, Malawi
+    -   On-site of active IWPs collecting in Zingwangwa (34/42)
 
-    -   in the city with two middlemen
+    -   Middlemen (2)
 
-    -   one city council responsible for the MSWM
+    -   Official from Blantyre City Council responsible for MSWM (1)
+
+-   Structured questionnaire
 
 -   Snowball strategy till saturation
 
--   Structured questionnaire
+-   Cross-sectional study
 
 ```{r}
 
@@ -42,8 +44,11 @@ Formalization of Informal Waste Pickers’ Cooperatives in Blantyre, Malawi: A F
 
 How can the formalization of informal waste pickers into cooperatives influence the effectiveness and accepptance of municipal solid waste management strategies in unplanned urban settlements in Malawi?<br>
 
-\
-With the right support it could potentially be effective at increasing bargaining power of IWPs, thus having the potential to limit exploitative pricing from buyers.
+-   Storage capacity
+
+-   Increased bargaining power
+
+-   Public trust
 
 ```{r}
 
